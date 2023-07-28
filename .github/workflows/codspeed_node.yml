@@ -19,5 +19,5 @@ jobs:
       - name: Run benchmarks
         uses: CodSpeedHQ/action@v1
         with:
-          run: node node/benches/bench.ts
+          run: node node/benches/bench.mjs
           token: ${{ secrets.CODSPEED_TOKEN }}
