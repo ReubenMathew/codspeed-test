@@ -1,0 +1,2 @@
+# codspeed-test
+Codspeed playground
